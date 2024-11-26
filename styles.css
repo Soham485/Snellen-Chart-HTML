@@ -1,0 +1,15 @@
+body {padding:50px; text-align: center; font: 800 152px "Courier New", serif;}
+
+#big {font-size:152px;}
+#big2 {font-size:130px;}
+#big3 {font-size:108px;}
+#big4 {font-size:87px;}
+#mid {font-size:65px;}
+#small4 {font-size:43px;}
+#small3 {font-size:33px;}
+#small2 {font-size:21px;}
+#small1 {font-size:15px;}
+#small {font-size:9px;}
+
+hr#first {width:500px;height: 20px; background-color:rgb(8, 136, 15);}
+hr#second {width:200px;height: 20px; background-color:red;}
