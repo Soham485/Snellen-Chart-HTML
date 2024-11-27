@@ -1,8 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
 
-#site {  font-family: "Manrope", sans-serif;
-    font-weight: 800; color:#8367C7; font-size:1em;}
+#site {  font-family: "Manrope", sans-serif;font-weight: 800; color:#8367C7; font-size:1em;}
 
 body {padding:50px;text-align: center; font-family:Verdana,sans-serif;color:#F7F3E3;background-color:#0D1321;}
 
@@ -19,4 +18,5 @@ body {padding:50px;text-align: center; font-family:Verdana,sans-serif;color:#F7F
 #small {font-size:9px;}
 
 hr#first {width:500px;height: 20px; background-color:#60935D; border:0px;}
+
 hr#second {width:200px;height: 20px; background-color:#AA5042; border:0px;}
