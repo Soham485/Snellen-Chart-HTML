@@ -1,5 +1,6 @@
-body {padding:50px; text-align: center; font: 800 152px "Courier New", serif;}
+body {padding:50px;text-align: center;}
 
+#snellen{font: 800 152px "Courier New", serif;}
 #big {font-size:152px;}
 #big2 {font-size:130px;}
 #big3 {font-size:108px;}
