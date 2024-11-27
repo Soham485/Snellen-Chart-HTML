@@ -3,7 +3,12 @@
 
 #site {  font-family: "Manrope", sans-serif;font-weight: 800; color:#8367C7; font-size:1em;}
 
-body {padding:50px;text-align: center; font-family:Verdana,sans-serif;color:#F7F3E3;background-color:#0D1321;}
+body 
+{padding:50px;
+text-align: center;
+ font-family:Verdana,sans-serif;
+ color:#F7F3E3;
+ background-color:#0D1321;}
 
 #snellen{font: 800 152px "Courier New", serif;}
 #big {font-size:152px;}
