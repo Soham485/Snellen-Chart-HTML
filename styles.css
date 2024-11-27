@@ -1,7 +1,10 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap');
 
-body {padding:50px;text-align: center; font-family:Verdana,sans-serif;}
+header {  font-family: "Manrope", sans-serif;
+    font-weight: 800; color:#AB87FF;}
+
+body {padding:50px;text-align: center; font-family:Verdana,sans-serif;color:#F7F3E3;background-color:#0D1321;}
 
 #snellen{font: 800 152px "Courier New", serif;}
 #big {font-size:152px;}
@@ -15,5 +18,5 @@ body {padding:50px;text-align: center; font-family:Verdana,sans-serif;}
 #small1 {font-size:15px;}
 #small {font-size:9px;}
 
-hr#first {width:500px;height: 20px; background-color:rgb(8, 136, 15);}
-hr#second {width:200px;height: 20px; background-color:red;}
+hr#first {width:500px;height: 20px; background-color:#60935D; border:0px;}
+hr#second {width:200px;height: 20px; background-color:#AA5042; border:0px;}
