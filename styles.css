@@ -1,4 +1,4 @@
-body {padding:50px;text-align: center;}
+body {padding:50px;text-align: center; font-size: 1em; font-family:Verdana,sans-serif;}
 
 #snellen{font: 800 152px "Courier New", serif;}
 #big {font-size:152px;}
