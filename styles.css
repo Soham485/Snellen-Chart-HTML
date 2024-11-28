@@ -3,6 +3,9 @@
 
 .site {  font-family: "Manrope", sans-serif;font-weight: 800; color:#8367C7; font-size:1em;}
 
+div.site {display:block;  margin-left: auto;
+    margin-right: auto;border:2px solid #8367C7;height: 60px;width:500px;}
+
 .center {display:block;
   margin-left: auto;
   margin-right: auto;
